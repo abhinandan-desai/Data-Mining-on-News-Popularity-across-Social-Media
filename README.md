@@ -9,7 +9,7 @@ Two Classifiers are used on the dataset - Naive Bayes Classification and Support
 ### Naive Bayes Classification ###
 The technique of classification is used to segregate the news articles into the four groups. Supervised learning is performed on the given data using the Topic attribute which provides the group identity of a news article. Classification is an appropriate choice for this dataset as the class assignments are known and the given data can be trained such that the classes of news articles can be correctly predicted and the articles can be assigned to their target classes or groups on the basis of their titles.
 
-![picture alt](C:/Users/Admin/Desktop/RIT/GitHub/NaiveBayes_image "Title is optional")
+![Naive Bayes Image](NaiveBayes_image.jpg "Naive Bayes image")
 
 
 ### Support Vector Machine ###
